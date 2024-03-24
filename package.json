@@ -1,0 +1,14 @@
+{
+  "name": "api-mocking-using-nock-nodejs",
+  "version": "0.0.1",
+  "description": "Sample code to show How to mocking APIs using nock in Nodejs JavaScript projects",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["nock","mocking","api mocking","rest api", "QualityWithMillan", "Javascript", "nodejs"],
+  "author": "QualityWithMillan",
+  "license": "ISC",
+  "dependencies": {
+    "nock": "^13.5.4"
+  }
+}
