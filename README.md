@@ -20,15 +20,17 @@ cd api-mocking-using-nock-nodejs
 
 # Install dependencies
 npm install
+```
 
 ## Usage
 
 After installing the dependencies, you can run the project using the following command:
 
-```node
+```bash
 npm run test
 ```
 
 This command will execute the `test.js` file, which contains the JavaScript API test code using `nock` to modify responses.
 
+Follow us for more interesting utils on our blog [https://qualitywithmillan](https://qualitywithmillan.github.io/)
 
