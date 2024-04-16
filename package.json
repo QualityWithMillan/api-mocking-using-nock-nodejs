@@ -9,6 +9,7 @@
   "author": "QualityWithMillan",
   "license": "ISC",
   "dependencies": {
+    "chai": "^5.1.0",
     "nock": "^13.5.4"
   }
 }
