@@ -5,7 +5,17 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["nock","mocking","api mocking","rest api", "QualityWithMillan", "Javascript", "nodejs"],
+  "type": "module",
+  "keywords": [
+    "nock",
+    "mocking",
+    "api mocking",
+    "rest api",
+    "QualityWithMillan",
+    "Javascript",
+    "nodejs",
+    "chai"
+  ],
   "author": "QualityWithMillan",
   "license": "ISC",
   "dependencies": {
